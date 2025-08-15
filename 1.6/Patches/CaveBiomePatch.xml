@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>CaveBiome (Continued)</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+
+
+
+
+
+
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName="HC_Anacondas"]/race/wildBiomes</xpath>
+					<value>
+						<Cave>0.1</Cave>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName="HC_Bullfrog"]/race/wildBiomes</xpath>
+					<value>
+						<Cave>0.5</Cave>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName="HC_Cheetah"]/race/wildBiomes</xpath>
+					<value>
+						<Cave>0.1</Cave>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName="HC_Leopardgecko"]/race/wildBiomes</xpath>
+					<value>
+						<Cave>0.4</Cave>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName="HC_Lion"]/race/wildBiomes</xpath>
+					<value>
+						<Cave>0.15</Cave>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName="HC_Pangolin"]/race/wildBiomes</xpath>
+					<value>
+						<Cave>0.2</Cave>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd"> 
+					<xpath>/Defs/ThingDef[defName="HC_Weasel"]/race/wildBiomes</xpath>
+					<value>
+						<Cave>0.75</Cave>
+					</value>
+				</li>
+
+
+
+
+
+
+
+
+
+			</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+

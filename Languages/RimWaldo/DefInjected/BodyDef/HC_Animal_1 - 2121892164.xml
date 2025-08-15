@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuadrupedAnimalKomodo.label>코모도 드래곤</QuadrupedAnimalKomodo.label>
+  <QuadrupedAnimalKomodo.corePart.parts.0.customLabel>꼬리</QuadrupedAnimalKomodo.corePart.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.4.customLabel>왼쪽 폐</QuadrupedAnimalKomodo.corePart.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.5.customLabel>오른쪽 폐</QuadrupedAnimalKomodo.corePart.parts.5.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.6.customLabel>왼쪽 신장</QuadrupedAnimalKomodo.corePart.parts.6.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.7.customLabel>오른쪽 신장</QuadrupedAnimalKomodo.corePart.parts.7.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.customLabel>왼쪽 앞다리</QuadrupedAnimalKomodo.corePart.parts.10.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.0.customLabel>왼쪽 앞다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.1.customLabel>왼쪽 앞다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.2.customLabel>왼쪽 앞다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.3.customLabel>왼쪽 앞다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.4.customLabel>왼쪽 앞다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.customLabel>오른쪽 앞다리</QuadrupedAnimalKomodo.corePart.parts.11.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.0.customLabel>오른쪽 앞다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.1.customLabel>오른쪽 앞다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.2.customLabel>오른쪽 앞다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.3.customLabel>오른쪽 앞다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.4.customLabel>오른쪽 앞다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.customLabel>왼쪽 뒷다리</QuadrupedAnimalKomodo.corePart.parts.12.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.0.customLabel>왼쪽 뒷다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.1.customLabel>왼쪽 뒷다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.2.customLabel>왼쪽 뒷다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.3.customLabel>왼쪽 뒷다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.4.customLabel>왼쪽 뒷다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.customLabel>오른쪽 뒷다리</QuadrupedAnimalKomodo.corePart.parts.13.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.0.customLabel>오른쪽 뒷다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.1.customLabel>오른쪽 뒷다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.2.customLabel>오른쪽 뒷다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.3.customLabel>오른쪽 뒷다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.4.customLabel>오른쪽 뒷다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.4.customLabel>
+  <HC_PangolinBodies.label>PangolinBodies</HC_PangolinBodies.label>
+  <HC_PangolinBodies.corePart.parts.5.customLabel>왼쪽 폐</HC_PangolinBodies.corePart.parts.5.customLabel>
+  <HC_PangolinBodies.corePart.parts.6.customLabel>오른쪽 폐</HC_PangolinBodies.corePart.parts.6.customLabel>
+  <HC_PangolinBodies.corePart.parts.7.customLabel>왼쪽 신장</HC_PangolinBodies.corePart.parts.7.customLabel>
+  <HC_PangolinBodies.corePart.parts.8.customLabel>오른쪽 신장</HC_PangolinBodies.corePart.parts.8.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.1.customLabel>왼쪽 눈</HC_PangolinBodies.corePart.parts.10.parts.0.parts.1.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.2.customLabel>오른쪽 눈</HC_PangolinBodies.corePart.parts.10.parts.0.parts.2.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.3.customLabel>왼쪽 귀</HC_PangolinBodies.corePart.parts.10.parts.0.parts.3.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.4.customLabel>오른쪽 귀</HC_PangolinBodies.corePart.parts.10.parts.0.parts.4.customLabel>
+  <HC_PangolinBodies.corePart.parts.11.customLabel>왼쪽 앞다리</HC_PangolinBodies.corePart.parts.11.customLabel>
+  <HC_PangolinBodies.corePart.parts.11.parts.0.customLabel>왼쪽 앞발</HC_PangolinBodies.corePart.parts.11.parts.0.customLabel>
+  <HC_PangolinBodies.corePart.parts.12.customLabel>오른쪽 앞다리</HC_PangolinBodies.corePart.parts.12.customLabel>
+  <HC_PangolinBodies.corePart.parts.12.parts.0.customLabel>오른쪽 앞발</HC_PangolinBodies.corePart.parts.12.parts.0.customLabel>
+  <HC_PangolinBodies.corePart.parts.13.customLabel>왼쪽 뒷다리</HC_PangolinBodies.corePart.parts.13.customLabel>
+  <HC_PangolinBodies.corePart.parts.13.parts.0.customLabel>왼쪽 뒷발</HC_PangolinBodies.corePart.parts.13.parts.0.customLabel>
+  <HC_PangolinBodies.corePart.parts.14.customLabel>오른쪽 뒷다리</HC_PangolinBodies.corePart.parts.14.customLabel>
+  <HC_PangolinBodies.corePart.parts.14.parts.0.customLabel>오른쪽 뒷발</HC_PangolinBodies.corePart.parts.14.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.label>코모도 드래곤</QuadrupedAnimalKomodo.label>
+  <QuadrupedAnimalKomodo.corePart.parts.0.customLabel>꼬리</QuadrupedAnimalKomodo.corePart.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.4.customLabel>왼쪽 허파</QuadrupedAnimalKomodo.corePart.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.5.customLabel>오른쪽 허파</QuadrupedAnimalKomodo.corePart.parts.5.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.6.customLabel>왼쪽 신장</QuadrupedAnimalKomodo.corePart.parts.6.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.7.customLabel>오른쪽 신장</QuadrupedAnimalKomodo.corePart.parts.7.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.customLabel>왼쪽 앞다리</QuadrupedAnimalKomodo.corePart.parts.10.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.0.customLabel>왼쪽 앞다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.1.customLabel>왼쪽 앞다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.2.customLabel>왼쪽 앞다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.3.customLabel>왼쪽 앞다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.4.customLabel>왼쪽 앞다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.10.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.customLabel>오른쪽 앞다리</QuadrupedAnimalKomodo.corePart.parts.11.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.0.customLabel>오른쪽 앞다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.1.customLabel>오른쪽 앞다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.2.customLabel>오른쪽 앞다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.3.customLabel>오른쪽 앞다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.4.customLabel>오른쪽 앞다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.11.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.customLabel>왼쪽 뒷다리</QuadrupedAnimalKomodo.corePart.parts.12.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.0.customLabel>왼쪽 뒷다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.1.customLabel>왼쪽 뒷다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.2.customLabel>왼쪽 뒷다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.3.customLabel>왼쪽 뒷다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.4.customLabel>왼쪽 뒷다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.12.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.customLabel>오른쪽 뒷다리</QuadrupedAnimalKomodo.corePart.parts.13.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.0.customLabel>오른쪽 뒷다리 첫번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.1.customLabel>오른쪽 뒷다리 두번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.2.customLabel>오른쪽 뒷다리 세번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.3.customLabel>오른쪽 뒷다리 네번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.4.customLabel>오른쪽 뒷다리 다섯번째 발톱</QuadrupedAnimalKomodo.corePart.parts.13.parts.4.customLabel>
+</LanguageData>

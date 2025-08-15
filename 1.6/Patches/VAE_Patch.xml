@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Animals Expanded</li>
+		</mods>
+
+		<match Class="PatchOperationSequence">
+			<operations>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Alligator"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Alligator"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Anacondas"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Anacondas"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Cheetah"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Cheetah"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Crocodale"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Crocodale"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Giraffe"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Giraffe"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Hippo"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Hippo"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Hyena"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Hyena"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Jaguar"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Jaguar"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Lion"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Lion"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/ThingDef[defName = "HC_Tiger"]</xpath>					
+				</li>
+
+				<li Class="PatchOperationRemove">
+
+					<xpath>/Defs/PawnKindDef[defName = "HC_Tiger"]</xpath>					
+				</li>
+		</operations>
+		</match>
+	</Operation>
+
+
+</Patch>
+

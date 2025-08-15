@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggKomodoDragonFertilized</defName>
+    <label>komodo dragon egg (fert.)</label>
+    <description>Komodo dragon eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>1.3</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>60.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>HC_KomodoDragon</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggAlligatorturtleFertilized</defName>
+    <label>alligator turtle egg (fert.)</label>
+    <description>Alligator turtle eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>1.2</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>60.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HC_Alligatorturtle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+    <ThingDef ParentName="EggFertBase">
+    <defName>EggGalapagostortoiseFertilized</defName>
+    <label>Galapagos tortoise egg (fert.)</label>
+    <description>Galapagos tortoise eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>1.3</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>80.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HC_Galapagostortoise</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  
+    <ThingDef ParentName="EggFertBase">
+    <defName>EggAnacondasFertilized</defName>
+    <label>anaconda egg (fert.)</label>
+    <description>Anaconda eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>1.2</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>60.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HC_Anacondas</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  
+    <ThingDef ParentName="EggFertBase">
+    <defName>EggBullfrog</defName>
+    <label>bullfrog egg (fert.)</label>
+    <description>Bullfrog eggs. They have that unique taste of amphibian eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>0.5</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>5.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>0.01</hatcherDaystoHatch>
+        <hatcherPawn>HC_Bullfrog</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+
+   <ThingDef ParentName="EggFertBase">
+    <defName>EggLeopardgeckoFertilized</defName>
+    <label>leopard gecko egg (fert.)</label>
+    <description>These are leopard gecko eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>0.7</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>10.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>HC_Leopardgecko</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggWatermonitorFertilized</defName>
+    <label>water monitor egg (fert.)</label>
+    <description>Water monitor eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>1.1</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>20.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>HC_Watermonitor</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>EggAlligatorFertilized</defName>
+    <label>alligator egg (fert.)</label>
+    <description>Alligator eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>1.5</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>90.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HC_Alligator</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+    <ThingDef ParentName="EggFertBase">
+    <defName>EggCrocodaleFertilized</defName>
+    <label>crocodile egg (fert.)</label>
+    <description>Crocodile eggs. They have that unique taste of reptile eggs.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+      <color>(245,245,245)</color>
+      <drawSize>1.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MarketValue>140.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>5</hatcherDaystoHatch>
+        <hatcherPawn>HC_Crocodale</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  </Defs>

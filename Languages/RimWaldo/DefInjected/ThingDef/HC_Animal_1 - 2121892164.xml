@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <HC_KomodoDragon.label>코모도 드래곤</HC_KomodoDragon.label>
+ <HC_KomodoDragon.description>거대한 체구를 가진 도마뱀이며, 지능 또한 굉장히 높습니다. 입 안의 박테리아와 자체적으로 만들어내는 독으로 대형 초식동물도 거뜬히 사냥합니다.</HC_KomodoDragon.description>
+ <HC_KomodoDragon.tools.0.label>왼쪽 발톱</HC_KomodoDragon.tools.0.label>
+ <HC_KomodoDragon.tools.1.label>오른쪽 발톱</HC_KomodoDragon.tools.1.label>
+ <HC_KomodoDragon.tools.2.label>독성 이빨</HC_KomodoDragon.tools.2.label>
+ <HC_KomodoDragon.tools.3.label>머리</HC_KomodoDragon.tools.3.label>
+ <HC_KomodoDragon.tools.4.label>꼬리</HC_KomodoDragon.tools.4.label>
+ <HC_Pangolin.label>천산갑</HC_Pangolin.label>
+ <HC_Pangolin.description>등껍질을 가진 포유류. 위기상황엔 몸을 말아 비늘같은 등껍질로 자신을 보호하며, 그 등껍질은 총기의 탄환을 튕겨내기도 합니다.</HC_Pangolin.description>
+ <HC_Pangolin.tools.0.label>왼쪽 발톱</HC_Pangolin.tools.0.label>
+ <HC_Pangolin.tools.1.label>오른쪽 발톱</HC_Pangolin.tools.1.label>
+ <HC_Pangolin.tools.2.label>머리</HC_Pangolin.tools.2.label>
+ <HC_Samoyed.label>사모예드</HC_Samoyed.label>
+ <HC_Samoyed.description>추위를 견뎌내기 위한 풍성한 하얀 털을 가지고 있는 중대형 작업견입니다. 체력이 매우 뛰어나며, 인간과 동족에게 호의적이며 애교가 많습니다.</HC_Samoyed.description>
+ <HC_Samoyed.tools.0.label>왼쪽 발톱</HC_Samoyed.tools.0.label>
+ <HC_Samoyed.tools.1.label>오른쪽 발톱</HC_Samoyed.tools.1.label>
+ <HC_Samoyed.tools.3.label>머리</HC_Samoyed.tools.3.label>
+ <HC_Serval.label>서벌</HC_Serval.label>
+ <HC_Serval.description>이 날렵하고 아름다운 무늬를 가진 포식자는 크기가 작지만 굉장한 속도를 무기로 뛰어난 사냥 성공률을 자랑합니다.</HC_Serval.description>
+ <HC_Serval.tools.0.label>왼쪽 발톱</HC_Serval.tools.0.label>
+ <HC_Serval.tools.1.label>오른쪽 발톱</HC_Serval.tools.1.label>
+ <HC_Serval.tools.3.label>머리</HC_Serval.tools.3.label>
+ <HC_Weasel.label>족제비</HC_Weasel.label>
+ <HC_Weasel.description>작고 귀여운 외모와 달리 매우 포악하고 호전적입니다. 비슷한 체구의 포식자들은 족제비와의 싸움에서 그 민첩함과 기술에 당하는 경우가 많습니다.</HC_Weasel.description>
+ <HC_Weasel.tools.0.label>왼쪽 발톱</HC_Weasel.tools.0.label>
+ <HC_Weasel.tools.1.label>오른쪽 발톱</HC_Weasel.tools.1.label>
+ <EggKomodoDragonFertilized.label>코모도 드래곤 유정란</EggKomodoDragonFertilized.label>
+ <EggKomodoDragonFertilized.description>코모도드래곤의 알입니다. 거대하며, 독특한 파충류알의 맛이납니다.</EggKomodoDragonFertilized.description>
+ <HC_Alligatorturtle.label>악어거북</HC_Alligatorturtle.label>
+ <HC_Alligatorturtle.description>악어처럼 거친피부와 500kg이상의 강력한 치악력을 가졌다고 하여 악어거북이라 불립니다.</HC_Alligatorturtle.description>
+ <HC_Alligatorturtle.tools.0.label>부리</HC_Alligatorturtle.tools.0.label>
+ <HC_Alligatorturtle.tools.1.label>머리</HC_Alligatorturtle.tools.1.label>
+ <HC_Anacondas.label>아나콘다</HC_Anacondas.label>
+ <HC_Anacondas.description>이 뱀은 매우 무거우며 6m이상 성장하는 거대한 뱀이다.</HC_Anacondas.description>
+ <HC_Anacondas.tools.0.label>이빨</HC_Anacondas.tools.0.label>
+ <HC_Anacondas.tools.1.label>머리</HC_Anacondas.tools.1.label>
+ <HC_Bullfrog.label>황소개구리</HC_Bullfrog.label>
+ <HC_Bullfrog.description>황소같은 울음소리를 내며, 울퉁불퉁한 피부를 가진 커다란 개구리 입니다.</HC_Bullfrog.description>
+ <HC_Bullfrog.tools.0.label>이빨</HC_Bullfrog.tools.0.label>
+ <HC_Bullfrog.tools.1.label>머리</HC_Bullfrog.tools.1.label>
+ <HC_Galapagostortoise.label>갈라파고스땅거북</HC_Galapagostortoise.label>
+ <HC_Galapagostortoise.description>500kg까지 자라는 거대한 육지거북이며, 수명이 매우 깁니다.</HC_Galapagostortoise.description>
+ <HC_Galapagostortoise.tools.0.label>부리</HC_Galapagostortoise.tools.0.label>
+ <HC_Galapagostortoise.tools.1.label>머리</HC_Galapagostortoise.tools.1.label>
+ <HC_Leopardgecko.label>레오파드게코</HC_Leopardgecko.label>
+ <HC_Leopardgecko.description>다양한 무늬를 가지고 있으며, 꼬리에 지방을 축적하는 작은 도마뱀 입니다.</HC_Leopardgecko.description>
+ <HC_Leopardgecko.tools.0.label>이빨</HC_Leopardgecko.tools.0.label>
+ <HC_Leopardgecko.tools.1.label>머리</HC_Leopardgecko.tools.1.label>
+ <HC_Watermonitor.label>물왕도마뱀</HC_Watermonitor.label>
+ <HC_Watermonitor.description>수영에 능숙하며, 길쭉한 몸은 강한 비늘로 덮혀있습니다.</HC_Watermonitor.description>
+ <HC_Watermonitor.tools.0.label>이빨</HC_Watermonitor.tools.0.label>
+ <HC_Watermonitor.tools.1.label>꼬리</HC_Watermonitor.tools.1.label>
+ <EggAlligatorturtleFertilized.label>악어거북 유정란</EggAlligatorturtleFertilized.label>
+ <EggAlligatorturtleFertilized.description>악어거북의 알입니다. 거대하며, 독특한 파충류알의 맛이납니다.</EggAlligatorturtleFertilized.description>
+  <EggAnacondasFertilized.label>아나콘다 유정란</EggAnacondasFertilized.label>
+ <EggAnacondasFertilized.description>아나콘다의 알입니다. 거대하며, 독특한 파충류알의 맛이납니다.</EggAnacondasFertilized.description>
+  <EggBullfrog.label>황소개구리 유정란</EggBullfrog.label>
+ <EggBullfrog.description>황소개구리의 알입니다. 흐물흐물하며 양서류알의 맛이납니다.</EggBullfrog.description>
+  <EggGalapagostortoiseFertilized.label>갈라파고스땅거북 유정란</EggGalapagostortoiseFertilized.label>
+ <EggGalapagostortoiseFertilized.description>갈라파고스땅거북의 알입니다. 거대하며, 독특한 파충류알의 맛이납니다.</EggGalapagostortoiseFertilized.description>
+  <EggLeopardgeckoFertilized.label>레오파드게코 유정란</EggLeopardgeckoFertilized.label>
+ <EggLeopardgeckoFertilized.description>레오파드게코의 알입니다. 독특한 파충류알의 맛이납니다.</EggLeopardgeckoFertilized.description>
+  <EggWatermonitorFertilized.label>물왕도마뱀 유정란</EggWatermonitorFertilized.label>
+ <EggWatermonitorFertilized.description>물왕도마뱀의 알입니다. 독특한 파충류알의 맛이납니다.</EggWatermonitorFertilized.description>
+ <Leather_HeavyLizard.label>두꺼운파충류가죽</Leather_HeavyLizard.label>
+ <Leather_HeavyLizard.description>파충류의 무두질 된 두꺼운가죽입니다. 강하고 질기지만 보온성이 떨어집니다.</Leather_HeavyLizard.description>
+ <HC_Cheetah.label>치타</HC_Cheetah.label>
+ <HC_Cheetah.description>최대 시속 130km의 가공할 속도를 낼 수 있는 체형을 가진 고양이과 생물.</HC_Cheetah.description>
+ <HC_Cheetah.tools.0.label>왼쪽 발톱</HC_Cheetah.tools.0.label>
+ <HC_Cheetah.tools.1.label>오른쪽 발톱</HC_Cheetah.tools.1.label>
+ <HC_Cheetah.tools.2.label>머리</HC_Cheetah.tools.2.label>
+ <HC_Hyena.label>하이에나</HC_Hyena.label>
+ <HC_Hyena.description>강력한 치악력으로 사냥, 스캐빈저 생활을 하는 위험한 맹수입니다.</HC_Hyena.description>
+ <HC_Hyena.tools.0.label>왼쪽 발톱</HC_Hyena.tools.0.label>
+ <HC_Hyena.tools.1.label>오른쪽 발톱</HC_Hyena.tools.1.label>
+ <HC_Hyena.tools.2.label>머리</HC_Hyena.tools.2.label>
+ <HC_Jaguar.label>재규어</HC_Jaguar.label>
+ <HC_Jaguar.description>아름다운 문양을 가진 대형고양이과 포식자 입니다.</HC_Jaguar.description>
+ <HC_Jaguar.tools.0.label>왼쪽 발톱</HC_Jaguar.tools.0.label>
+ <HC_Jaguar.tools.1.label>오른쪽 발톱</HC_Jaguar.tools.1.label>
+ <HC_Jaguar.tools.2.label>머리</HC_Jaguar.tools.2.label>
+ <HC_Lion.label>사자</HC_Lion.label>
+ <HC_Lion.description>무리생활을 하는 강력한 생태계 정점의 육식동물입니다.</HC_Lion.description>
+ <HC_Lion.tools.0.label>왼쪽 발톱</HC_Lion.tools.0.label>
+ <HC_Lion.tools.1.label>오른쪽 발톱</HC_Lion.tools.1.label>
+ <HC_Lion.tools.2.label>머리</HC_Lion.tools.2.label>
+ <HC_Snowleopard.label>설표</HC_Snowleopard.label>
+ <HC_Snowleopard.description>매우 희귀한 빅고양이 동물입니다. 특이한 회색 털가죽과 문양을 가지고 있습니다.</HC_Snowleopard.description>
+ <HC_Snowleopard.tools.0.label>왼쪽 발톱</HC_Snowleopard.tools.0.label>
+ <HC_Snowleopard.tools.1.label>오른쪽 발톱</HC_Snowleopard.tools.1.label>
+ <HC_Snowleopard.tools.2.label>머리</HC_Snowleopard.tools.2.label>
+ <HC_Tiger.label>호랑이</HC_Tiger.label>
+ <HC_Tiger.description>줄무늬를 가지고 있으며, 고양이과 생물중 가장 거대한 포식자입니다.</HC_Tiger.description>
+ <HC_Tiger.tools.0.label>왼쪽 발톱</HC_Tiger.tools.0.label>
+ <HC_Tiger.tools.1.label>오른쪽 발톱</HC_Tiger.tools.1.label>
+ <HC_Tiger.tools.2.label>머리</HC_Tiger.tools.2.label>
+</LanguageData>

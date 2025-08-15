@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HC_KomodoDragon.label>코모도 드래곤</HC_KomodoDragon.label>
+  <HC_KomodoDragon.labelPlural>코모도 드래곤</HC_KomodoDragon.labelPlural>
+  <HC_Pangolin.label>천산갑</HC_Pangolin.label>
+  <HC_Pangolin.labelPlural>천산갑</HC_Pangolin.labelPlural>
+  <HC_Pangolin.lifeStages.0.label>새끼 천산갑</HC_Pangolin.lifeStages.0.label>
+  <HC_Pangolin.lifeStages.0.labelPlural>새끼 천산갑</HC_Pangolin.lifeStages.0.labelPlural>
+  <HC_Samoyed.label>사모예드</HC_Samoyed.label>
+  <HC_Samoyed.labelPlural>사모예드</HC_Samoyed.labelPlural>
+  <HC_Samoyed.lifeStages.0.label>사모예드 강아지</HC_Samoyed.lifeStages.0.label>
+  <HC_Samoyed.lifeStages.0.labelPlural>사모예드 강아지</HC_Samoyed.lifeStages.0.labelPlural>
+  <HC_Serval.label>서벌</HC_Serval.label>
+  <HC_Serval.labelPlural>서벌</HC_Serval.labelPlural>
+  <HC_Serval.lifeStages.0.label>새끼 서벌</HC_Serval.lifeStages.0.label>
+  <HC_Serval.lifeStages.0.labelPlural>새끼 서벌</HC_Serval.lifeStages.0.labelPlural>
+  <HC_Weasel.label>족제비</HC_Weasel.label>
+  <HC_Weasel.labelPlural>족제비</HC_Weasel.labelPlural>
+  <HC_Weasel.lifeStages.0.label>새끼 족제비</HC_Weasel.lifeStages.0.label>
+  <HC_Weasel.lifeStages.0.labelPlural>새끼 족제비</HC_Weasel.lifeStages.0.labelPlural>
+  <HC_Alligatorturtle.label>악어거북</HC_Alligatorturtle.label>
+  <HC_Alligatorturtle.labelPlural>악어거북</HC_Alligatorturtle.labelPlural>
+  <HC_Anacondas.label>아나콘다</HC_Anacondas.label>
+  <HC_Anacondas.labelPlural>아나콘다</HC_Anacondas.labelPlural>
+  <HC_Bullfrog.label>황소개구리</HC_Bullfrog.label>
+  <HC_Bullfrog.labelPlural>황소개구리</HC_Bullfrog.labelPlural>
+  <HC_Galapagostortoise.label>갈라파고스땅거북</HC_Galapagostortoise.label>
+  <HC_Galapagostortoise.labelPlural>갈라파고스땅거북</HC_Galapagostortoise.labelPlural>
+  <HC_Leopardgecko.label>레오파드게코</HC_Leopardgecko.label>
+  <HC_Leopardgecko.labelPlural>레오파드게코</HC_Leopardgecko.labelPlural>
+  <HC_Watermonitor.label>물왕도마뱀</HC_Watermonitor.label>
+  <HC_Watermonitor.labelPlural>물왕도마뱀</HC_Watermonitor.labelPlural>
+  <HC_Cheetah.label>치타</HC_Cheetah.label>
+  <HC_Cheetah.labelPlural>치타</HC_Cheetah.labelPlural>
+  <HC_Hyena.label>하이에나</HC_Hyena.label>
+  <HC_Hyena.labelPlural>하이에나</HC_Hyena.labelPlural>
+  <HC_Jaguar.label>재규어</HC_Jaguar.label>
+  <HC_Jaguar.labelPlural>재규어</HC_Jaguar.labelPlural>
+  <HC_Lion.label>사자</HC_Lion.label>
+  <HC_Lion.labelPlural>사자</HC_Lion.labelPlural>
+  <HC_Snowleopard.label>설표</HC_Snowleopard.label>
+  <HC_Snowleopard.labelPlural>설표</HC_Snowleopard.labelPlural>
+  <HC_Tiger.label>호랑이</HC_Tiger.label>
+  <HC_Tiger.labelPlural>호랑이</HC_Tiger.labelPlural>
+</LanguageData>

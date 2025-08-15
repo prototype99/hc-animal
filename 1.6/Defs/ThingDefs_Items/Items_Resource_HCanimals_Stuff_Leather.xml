@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_HeavyLizard</defName>
+    <label>heavy lizard skin</label>
+    <description>Tanned skin of a cold-blooded reptile. It is quite strong and tough, but not insulating at all.</description>
+    <statBases>
+      <MarketValue>5.2</MarketValue>
+      <StuffPower_Armor_Sharp>1.01</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.32</StuffPower_Armor_Blunt>
+      <StuffPower_Insulation_Cold>12</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>12</StuffPower_Insulation_Heat>
+    </statBases>
+    <graphicData>
+      <color>(81,96,48)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(81,96,48)</color>
+      <commonality>0.075</commonality>
+      <statFactors>
+        <MaxHitPoints>1.5</MaxHitPoints>
+        <Beauty>2.6</Beauty>
+      </statFactors>
+    </stuffProps>
+  </ThingDef>
+
+</Defs>

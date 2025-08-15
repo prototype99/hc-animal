@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+ <HC_KomodoDragon.label>Dragon de Komodo</HC_KomodoDragon.label>
+ <HC_KomodoDragon.description>C'est un lézard avec un corps énorme, et il est également très intelligent. Il chasse facilement les gros herbivores avec les bactéries dans sa bouche et son propre poison..</HC_KomodoDragon.description>
+ <HC_KomodoDragon.tools.0.label>Griffe gauche</HC_KomodoDragon.tools.0.label>
+ <HC_KomodoDragon.tools.1.label>Griffe droite</HC_KomodoDragon.tools.1.label>
+ <HC_KomodoDragon.tools.2.label>Dents toxiques</HC_KomodoDragon.tools.2.label>
+ <HC_KomodoDragon.tools.4.label>queue</HC_KomodoDragon.tools.4.label>
+ <HC_Pangolin.label>pangolin</HC_Pangolin.label>
+ <HC_Pangolin.description>Mammifères avec des coquillages. Dans les situations de crise, le corps s'enroule et se protège avec un obus en forme d'écaille, qui rebondit sur les balles des armes à feu.</HC_Pangolin.description>
+ <HC_Pangolin.tools.0.label>Griffe gauche</HC_Pangolin.tools.0.label>
+ <HC_Pangolin.tools.1.label>Griffe droite</HC_Pangolin.tools.1.label>
+ <HC_Samoyed.label>Samoyède</HC_Samoyed.label>
+ <HC_Samoyed.description>C'est un chien de travail de taille moyenne à grande avec une riche fourrure blanche pour résister au froid. Ils ont une excellente force physique, sont amicaux avec les humains et leur propre peuple, et ont beaucoup de charme.</HC_Samoyed.description>
+ <HC_Samoyed.tools.0.label>Patte gauche</HC_Samoyed.tools.0.label>
+ <HC_Samoyed.tools.1.label>patte droite</HC_Samoyed.tools.1.label>
+ <HC_Serval.label>Serval</HC_Serval.label>
+ <HC_Serval.description>Ces prédateurs élégants et joliment décorés sont de petite taille, mais avec une vitesse incroyable, ils ont un excellent taux de réussite de la chasse.</HC_Serval.description>
+ <HC_Serval.tools.0.label>Griffe gauche</HC_Serval.tools.0.label>
+ <HC_Serval.tools.1.label>Griffe droite</HC_Serval.tools.1.label>
+ <HC_Weasel.label>belette</HC_Weasel.label>
+ <HC_Weasel.description>Contrairement à son apparence mignonne, il est très belliqueux. Les prédateurs de taille similaire sont souvent soumis à leur agilité et à leur habileté dans la lutte contre les belettes.</HC_Weasel.description>
+ <HC_Weasel.tools.0.label>Griffe gauche</HC_Weasel.tools.0.label>
+ <HC_Weasel.tools.1.label>Griffe droite</HC_Weasel.tools.1.label>
+ <EggKomodoDragonFertilized.label>Oeuf de dragon de komodo (fécondé)</EggKomodoDragonFertilized.label>
+ <EggKomodoDragonFertilized.description>C'est l'oeuf du dragon de Komodo. Il est énorme et a un goût distinctif d'oeuf de reptile.</EggKomodoDragonFertilized.description>
+ <HC_Alligatorturtle.label>Tortue-alligator</HC_Alligatorturtle.label>
+ <HC_Alligatorturtle.description>On l'appelle tortue alligator car elle a une peau rugueuse comme un crocodile et une forte puissance de préhension des dents de plus de 500 kg.</HC_Alligatorturtle.description>
+ <HC_Alligatorturtle.tools.0.label>bec</HC_Alligatorturtle.tools.0.label>
+ <HC_Anacondas.label>Anaconda</HC_Anacondas.label>
+ <HC_Anacondas.description>Ce serpent est très lourd et mesure jusqu'à 6 m.</HC_Anacondas.description>
+ <HC_Anacondas.tools.0.label>dents</HC_Anacondas.tools.0.label>
+ <HC_Bullfrog.label>ouaouaron</HC_Bullfrog.label>
+ <HC_Bullfrog.description>C'est une grosse grenouille à la peau grumeleuse, avec des cris de taureau.</HC_Bullfrog.description>
+ <HC_Bullfrog.tools.0.label>dents</HC_Bullfrog.tools.0.label>
+ <HC_Galapagostortoise.label>Tortue géante des Galápagos</HC_Galapagostortoise.label>
+ <HC_Galapagostortoise.description>C'est une tortue terrestre géante qui peut atteindre 500 kg et qui a une très longue durée de vie.</HC_Galapagostortoise.description>
+ <HC_Galapagostortoise.tools.0.label>bec</HC_Galapagostortoise.tools.0.label>
+ <HC_Leopardgecko.label>Gecko léopard</HC_Leopardgecko.label>
+ <HC_Leopardgecko.description>C'est un petit lézard qui a des motifs variés et accumule de la graisse dans sa queue.</HC_Leopardgecko.description>
+ <HC_Leopardgecko.tools.0.label>dents</HC_Leopardgecko.tools.0.label>
+ <HC_Watermonitor.label>Varan du nil</HC_Watermonitor.label>
+ <HC_Watermonitor.description>Ils sont doués pour nager et leur corps allongé est couvert de fortes écailles.</HC_Watermonitor.description>
+ <HC_Watermonitor.tools.0.label>dents</HC_Watermonitor.tools.0.label>
+ <EggAlligatorturtleFertilized.label>Oeuf de tortue-alligator (fécondé)</EggAlligatorturtleFertilized.label>
+ <EggAlligatorturtleFertilized.description>C'est l'oeuf d'une tortue crocodile. C'est énorme et a le goût d'un oeuf de reptile unique.</EggAlligatorturtleFertilized.description>
+  <EggAnacondasFertilized.label>oeuf d'anaconda (fécondé)</EggAnacondasFertilized.label>
+ <EggAnacondasFertilized.description>C'est un œuf d'anaconda. Il est énorme et a un goût distinctif d'oeuf de reptile.</EggAnacondasFertilized.description>
+  <EggBullfrog.label>oeuf de ouaouaron</EggBullfrog.label>
+ <EggBullfrog.description>C'est l'œuf d'un ouaouaron. Il est lâche et a le goût des amphibiens.</EggBullfrog.description>
+  <EggGalapagostortoiseFertilized.label>oeuf de tortue géante des galapagos (fécondé)</EggGalapagostortoiseFertilized.label>
+ <EggGalapagostortoiseFertilized.description>C'est l'oeuf de la tortue terrestre des Galapagos. C'est énorme et a le goût d'un oeuf de reptile unique.</EggGalapagostortoiseFertilized.description>
+  <EggLeopardgeckoFertilized.label>oeuf de gécko léopard (fécondé)</EggLeopardgeckoFertilized.label>
+ <EggLeopardgeckoFertilized.description>Ceci est un oeuf de gecko léopard. Il a un goût unique d'oeufs de reptiles.</EggLeopardgeckoFertilized.description>
+  <EggWatermonitorFertilized.label>oeuf de varan du nil (fécondé)</EggWatermonitorFertilized.label>
+ <EggWatermonitorFertilized.description>C'est l'oeuf d'un varan du nil. Il a un goût unique d'oeufs de reptiles.</EggWatermonitorFertilized.description>
+ <Leather_HeavyLizard.label>Cuir épais de reptile</Leather_HeavyLizard.label>
+ <Leather_HeavyLizard.description>C'est un cuir tanné épais de reptiles. Il est solide et résistant, mais sa chaleur est médiocre.</Leather_HeavyLizard.description>
+ <HC_Cheetah.label>Guépard</HC_Cheetah.label>
+ <HC_Cheetah.description>Une créature féline avec une forme de corps capable de vitesses terrifiantes allant jusqu'à 130 km / h.</HC_Cheetah.description>
+ <HC_Cheetah.tools.0.label>Griffe gauche</HC_Cheetah.tools.0.label>
+ <HC_Cheetah.tools.1.label>Griffe droite</HC_Cheetah.tools.1.label>
+ <HC_Hyena.label>Hyène</HC_Hyena.label>
+ <HC_Hyena.description>C'est une bête dangereuse qui vit comme un chasseur et un charognard avec une forte adhérence aux dents.</HC_Hyena.description>
+ <HC_Hyena.tools.0.label>Griffe gauche</HC_Hyena.tools.0.label>
+ <HC_Hyena.tools.1.label>Griffe droite</HC_Hyena.tools.1.label>
+ <HC_Jaguar.label>Jaguar</HC_Jaguar.label>
+ <HC_Jaguar.description>C'est un grand prédateur de la famille des chats avec un beau motif.</HC_Jaguar.description>
+ <HC_Jaguar.tools.0.label>Griffe gauche</HC_Jaguar.tools.0.label>
+ <HC_Jaguar.tools.1.label>Griffe droite</HC_Jaguar.tools.1.label>
+ <HC_Lion.label>Lion</HC_Lion.label>
+ <HC_Lion.description>C'est un prédateur au sommet d'un puissant écosystème qui vit en troupeau.</HC_Lion.description>
+ <HC_Lion.tools.0.label>Griffe gauche</HC_Lion.tools.0.label>
+ <HC_Lion.tools.1.label>Griffe droite</HC_Lion.tools.1.label>
+ <HC_Snowleopard.label>Léopard des neiges</HC_Snowleopard.label>
+ <HC_Snowleopard.description>C'est un gros chat très rare. Il a une fourrure et un motif gris particuliers.</HC_Snowleopard.description>
+ <HC_Snowleopard.tools.0.label>Griffe gauche</HC_Snowleopard.tools.0.label>
+ <HC_Snowleopard.tools.1.label>Griffe droite</HC_Snowleopard.tools.1.label>
+ <HC_Tiger.label>Tigre</HC_Tiger.label>
+ <HC_Tiger.description>Il a des rayures et est le plus grand prédateur de tous les félins.</HC_Tiger.description>
+ <HC_Tiger.tools.0.label>Griffe gauche</HC_Tiger.tools.0.label>
+ <HC_Tiger.tools.1.label>Griffe droite</HC_Tiger.tools.1.label>
+ <HC_Baboon.label>Babouin</HC_Baboon.label>
+ <HC_Baboon.description>Primate omnivore de taille moyenne. Il a un long museau, comme le museau d'un chien, et des canines, comme un grand carnivore..</HC_Baboon.description>
+ <HC_Baboon.tools.0.label>Poing gauche</HC_Baboon.tools.0.label>
+ <HC_Baboon.tools.1.label>Poing droit</HC_Baboon.tools.1.label>
+ <HC_Alligator.label>Alligator</HC_Alligator.label>
+ <HC_Alligator.description>Grand reptile carnivore. Chasse les gros animaux avec une forte force de mâchoire, vit principalement dans les rivières et grimpe parfois sur les terres et les marécages..</HC_Alligator.description>
+ <HC_Alligator.tools.0.label>Griffe gauche</HC_Alligator.tools.0.label>
+ <HC_Alligator.tools.1.label>Griffe droite</HC_Alligator.tools.1.label>
+ <HC_Alligator.tools.2.label>queue</HC_Alligator.tools.2.label>
+ <HC_Crocodale.label>Crocodile</HC_Crocodale.label>
+ <HC_Crocodale.description>Grands reptiles. Il vit dans les rivières et les mers, et arrive parfois à terre. Il pousse jusqu'à 7 m et a une puissance de préhension des dents de 2 tonnes.</HC_Crocodale.description>
+ <HC_Crocodale.tools.0.label>Griffe gauche</HC_Crocodale.tools.0.label>
+ <HC_Crocodale.tools.1.label>Griffe droite</HC_Crocodale.tools.1.label>
+ <HC_Crocodale.tools.2.label>queue</HC_Crocodale.tools.2.label>
+ <HC_Giraffe.label>Girafe</HC_Giraffe.label>
+ <HC_Giraffe.description>Un grand herbivore de 5m de haut. C'est une créature dangereuse avec un gros corps pesant deux tonnes, qui court vite avec de longues jambes.</HC_Giraffe.description>
+ <HC_Giraffe.tools.0.label>Sabot gauche</HC_Giraffe.tools.0.label>
+ <HC_Giraffe.tools.1.label>Sabot droit</HC_Giraffe.tools.1.label>
+ <HC_Hippo.label>Hippopotame</HC_Hippo.label>
+ <HC_Hippo.description>Ces créatures vicieuses, habitant principalement les rivières, transpercent d'autres animaux avec leurs énormes bouches et dents.</HC_Hippo.description>
+ <EggAlligatorFertilized.label>Oeuf d'alligator (fécondé)</EggAlligatorFertilized.label>
+ <EggAlligatorFertilized.description>Ceci est un œuf d'alligator. C'est énorme et a le goût d'un oeuf de reptile unique.</EggAlligatorFertilized.description>
+ <EggCrocodaleFertilized.label>Oeuf de crocodile (fécondé)</EggCrocodaleFertilized.label>
+ <EggCrocodaleFertilized.description>Ceci est un oeuf de crocodile. Il est énorme et a un goût distinctif d'œuf de reptile.</EggCrocodaleFertilized.description>
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuadrupedAnimalKomodo.label>Dragon de Komodo</QuadrupedAnimalKomodo.label>
+  <QuadrupedAnimalKomodo.corePart.parts.0.customLabel>queue</QuadrupedAnimalKomodo.corePart.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.4.customLabel>Poumon gauche</QuadrupedAnimalKomodo.corePart.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.5.customLabel>Poumon droit</QuadrupedAnimalKomodo.corePart.parts.5.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.6.customLabel>Rein gauche</QuadrupedAnimalKomodo.corePart.parts.6.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.7.customLabel>Rein droit</QuadrupedAnimalKomodo.corePart.parts.7.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.1.customLabel>Oeil gauche</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.2.customLabel>Oeil droit</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.3.customLabel>Oreille gauche</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.4.customLabel>Oreille droite</QuadrupedAnimalKomodo.corePart.parts.9.parts.0.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.customLabel>Patte avant gauche</QuadrupedAnimalKomodo.corePart.parts.10.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.0.customLabel>1e griffe du membre antérieur gauche</QuadrupedAnimalKomodo.corePart.parts.10.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.1.customLabel>2e griffe du membre antérieur gauche</QuadrupedAnimalKomodo.corePart.parts.10.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.2.customLabel>3e griffe du membre antérieur gauche</QuadrupedAnimalKomodo.corePart.parts.10.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.3.customLabel>4e griffe du membre antérieur gauche</QuadrupedAnimalKomodo.corePart.parts.10.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.10.parts.4.customLabel>5e griffe du membre antérieur gauche</QuadrupedAnimalKomodo.corePart.parts.10.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.customLabel>Patte avant droite</QuadrupedAnimalKomodo.corePart.parts.11.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.0.customLabel>1e griffe du membre antérieur droit</QuadrupedAnimalKomodo.corePart.parts.11.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.1.customLabel>2e griffe du membre antérieur droit</QuadrupedAnimalKomodo.corePart.parts.11.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.2.customLabel>3e griffe du membre antérieur droit</QuadrupedAnimalKomodo.corePart.parts.11.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.3.customLabel>4e griffe du membre antérieur droit</QuadrupedAnimalKomodo.corePart.parts.11.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.11.parts.4.customLabel>5e griffe du membre antérieur droit</QuadrupedAnimalKomodo.corePart.parts.11.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.customLabel>Patte arrière gauche</QuadrupedAnimalKomodo.corePart.parts.12.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.0.customLabel>1e griffe de la patte arrière gauche</QuadrupedAnimalKomodo.corePart.parts.12.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.1.customLabel>2e griffe de la patte arrière gauche</QuadrupedAnimalKomodo.corePart.parts.12.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.2.customLabel>3e griffe de la patte arrière gauche</QuadrupedAnimalKomodo.corePart.parts.12.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.3.customLabel>4e griffe de la patte arrière gauche</QuadrupedAnimalKomodo.corePart.parts.12.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.12.parts.4.customLabel>5e griffe de la patte arrière gauche</QuadrupedAnimalKomodo.corePart.parts.12.parts.4.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.customLabel>Patte arrière droite</QuadrupedAnimalKomodo.corePart.parts.13.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.0.customLabel>1e griffe de la patte arrière droite</QuadrupedAnimalKomodo.corePart.parts.13.parts.0.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.1.customLabel>2e griffe de la patte arrière droite</QuadrupedAnimalKomodo.corePart.parts.13.parts.1.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.2.customLabel>3e griffe de la patte arrière droite</QuadrupedAnimalKomodo.corePart.parts.13.parts.2.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.3.customLabel>4e griffe de la patte arrière droite</QuadrupedAnimalKomodo.corePart.parts.13.parts.3.customLabel>
+  <QuadrupedAnimalKomodo.corePart.parts.13.parts.4.customLabel>5e griffe de la patte arrière droite</QuadrupedAnimalKomodo.corePart.parts.13.parts.4.customLabel>
+  <HC_PangolinBodies.label>PangolinBodies</HC_PangolinBodies.label>
+  <HC_PangolinBodies.corePart.parts.5.customLabel>Poumon gauche</HC_PangolinBodies.corePart.parts.5.customLabel>
+  <HC_PangolinBodies.corePart.parts.6.customLabel>Poumon droit</HC_PangolinBodies.corePart.parts.6.customLabel>
+  <HC_PangolinBodies.corePart.parts.7.customLabel>Rein gauche</HC_PangolinBodies.corePart.parts.7.customLabel>
+  <HC_PangolinBodies.corePart.parts.8.customLabel>Rein droit</HC_PangolinBodies.corePart.parts.8.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.1.customLabel>Oeil gauche</HC_PangolinBodies.corePart.parts.10.parts.0.parts.1.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.2.customLabel>Oeil droit</HC_PangolinBodies.corePart.parts.10.parts.0.parts.2.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.3.customLabel>Oreille gauche</HC_PangolinBodies.corePart.parts.10.parts.0.parts.3.customLabel>
+  <HC_PangolinBodies.corePart.parts.10.parts.0.parts.4.customLabel>Oreille droite</HC_PangolinBodies.corePart.parts.10.parts.0.parts.4.customLabel>
+  <HC_PangolinBodies.corePart.parts.11.customLabel>Patte avant gauche</HC_PangolinBodies.corePart.parts.11.customLabel>
+  <HC_PangolinBodies.corePart.parts.11.parts.0.customLabel>Pied avant gauche</HC_PangolinBodies.corePart.parts.11.parts.0.customLabel>
+  <HC_PangolinBodies.corePart.parts.12.customLabel>Patte avant droite</HC_PangolinBodies.corePart.parts.12.customLabel>
+  <HC_PangolinBodies.corePart.parts.12.parts.0.customLabel>Pied avant droit</HC_PangolinBodies.corePart.parts.12.parts.0.customLabel>
+  <HC_PangolinBodies.corePart.parts.13.customLabel>Patte arrière gauche</HC_PangolinBodies.corePart.parts.13.customLabel>
+  <HC_PangolinBodies.corePart.parts.13.parts.0.customLabel>Pied arrière gauche</HC_PangolinBodies.corePart.parts.13.parts.0.customLabel>
+  <HC_PangolinBodies.corePart.parts.14.customLabel>Patte arrière droite</HC_PangolinBodies.corePart.parts.14.customLabel>
+  <HC_PangolinBodies.corePart.parts.14.parts.0.customLabel>Pied arrière droit</HC_PangolinBodies.corePart.parts.14.parts.0.customLabel>
+</LanguageData>
