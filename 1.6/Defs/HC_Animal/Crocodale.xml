@@ -64,6 +64,7 @@
     </tools>
 	<comps>
       <li Class="CompProperties_EggLayer">
+        <eggUnfertilizedDef>HC_CrocodaleEggUnfertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggCrocodaleFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>65.0</eggLayIntervalDays>

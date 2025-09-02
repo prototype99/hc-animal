@@ -36,6 +36,7 @@
     </tools>
 	<comps>
       <li Class="CompProperties_EggLayer">
+        <eggUnfertilizedDef>HC_BullfrogEggUnfertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggBullfrog</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>12.0</eggLayIntervalDays>

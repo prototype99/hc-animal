@@ -35,6 +35,7 @@
     </tools>
 	<comps>
       <li Class="CompProperties_EggLayer">
+        <eggUnfertilizedDef>HC_AnacondasEggUnfertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggAnacondasFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>20.0</eggLayIntervalDays>
