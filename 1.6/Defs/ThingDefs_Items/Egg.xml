@@ -1,6 +1,267 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
+  <ThingDef ParentName="EggBase">
+    <defName>HC_AlligatorturtleEggUnfertilized</defName>
+    <label>alligator turtle egg (unfertilized)</label>
+    <description>An unfertilized egg laid by an alligator turtle. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.25</Nutrition>
+      <MarketValue>20</MarketValue>
+      <Mass>0.2</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+        <drawSize>1.2</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_AlligatorEggUnfertilized</defName>
+    <label>alligator egg (unfertilized)</label>
+    <description>An unfertilized egg laid by an alligator. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.25</Nutrition>
+      <MarketValue>30</MarketValue>
+      <Mass>0.2</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+        <drawSize>1.5</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_AnacondasEggUnfertilized</defName>
+    <label>anaconda egg (unfertilized)</label>
+    <description>An unfertilized egg laid by an anaconda. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.25</Nutrition>
+      <MarketValue>20</MarketValue>
+      <Mass>0.2</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+        <drawSize>1.2</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_BullfrogEggUnfertilized</defName>
+    <label>bullfrog egg (unfertilized)</label>
+    <description>An unfertilized egg laid by a bullfrog. Has that unique taste of amphibian eggs.</description>
+    <statBases>
+      <Nutrition>0.1</Nutrition>
+      <MarketValue>2</MarketValue>
+      <Mass>0.1</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+      <drawSize>0.5</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_CrocodaleEggUnfertilized</defName>
+    <label>crocodile egg (unfertilized)</label>
+    <description>An unfertilized egg laid by a crocodile. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.25</Nutrition>
+      <MarketValue>45</MarketValue>
+      <Mass>0.2</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+      <drawSize>1.8</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_GalapagostortoiseEggUnfertilized</defName>
+    <label>galapagos tortoise egg (unfertilized)</label>
+    <description>An unfertilized egg laid by a Galapagos tortoise. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.25</Nutrition>
+      <MarketValue>25</MarketValue>
+      <Mass>0.2</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+      <drawSize>1.3</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_KomodoDragonEggUnfertilized</defName>
+    <label>komodo dragon egg (unfertilized)</label>
+    <description>An unfertilized egg laid by a komodo dragon. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.25</Nutrition>
+      <MarketValue>30</MarketValue>
+      <Mass>0.2</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+      <drawSize>1.3</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_LeopardgeckoEggUnfertilized</defName>
+    <label>leopard gecko egg (unfertilized)</label>
+    <description>An unfertilized egg laid by a leopard gecko. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.15</Nutrition>
+      <MarketValue>3</MarketValue>
+      <Mass>0.1</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+      <drawSize>0.7</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
+  <ThingDef ParentName="EggBase">
+    <defName>HC_WatermonitorEggUnfertilized</defName>
+    <label>water monitor egg (unfertilized)</label>
+    <description>An unfertilized egg laid by a water monitor. Has that unique taste of reptilian eggs.</description>
+    <statBases>
+      <Nutrition>0.2</Nutrition>
+      <MarketValue>7</MarketValue>
+      <Mass>0.2</Mass>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggRound</texPath>
+        <color>(245,245,245)</color>
+      <drawSize>1.1</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>EggsUnfertilized</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>10</daysToRotStart>
+      </li>
+    </comps>
+    <ingestible>
+      <preferability>RawBad</preferability>
+      <foodType>AnimalProduct</foodType>
+      <tasteThought>AteRawFood</tasteThought>
+    </ingestible>
+  </ThingDef>
+
   <ThingDef ParentName="EggFertBase">
     <defName>EggKomodoDragonFertilized</defName>
     <label>komodo dragon egg (fert.)</label>

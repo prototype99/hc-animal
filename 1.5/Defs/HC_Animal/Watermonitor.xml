@@ -42,6 +42,7 @@
     </tools>
 	<comps>
       <li Class="CompProperties_EggLayer">
+        <eggUnfertilizedDef>HC_WatermonitorEggUnfertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggWatermonitorFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>15.0</eggLayIntervalDays>

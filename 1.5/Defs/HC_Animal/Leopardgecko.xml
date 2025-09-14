@@ -35,6 +35,7 @@
     </tools>
 	<comps>
       <li Class="CompProperties_EggLayer">
+        <eggUnfertilizedDef>HC_LeopardgeckoEggUnfertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggLeopardgeckoFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>12.0</eggLayIntervalDays>

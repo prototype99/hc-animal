@@ -44,6 +44,7 @@
     </tools>
 	<comps>
       <li Class="CompProperties_EggLayer">
+        <eggUnfertilizedDef>HC_KomodoDragonEggUnfertilized</eggUnfertilizedDef>
         <eggFertilizedDef>EggKomodoDragonFertilized</eggFertilizedDef>
         <eggFertilizationCountMax>1</eggFertilizationCountMax>
         <eggLayIntervalDays>30.0</eggLayIntervalDays>
